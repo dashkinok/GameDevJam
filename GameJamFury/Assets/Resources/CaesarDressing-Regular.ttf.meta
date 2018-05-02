@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3bc006a93b9794aa5b9d5ece5080d469
+timeCreated: 1525232595
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caesar Dressing
+  fontNames:
+  - Caesar Dressing
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c9d608b16c87840ccb2d88efe2d9b95b
+timeCreated: 1525232269
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: QuickGreek
+  fontNames:
+  - QuickGreek
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
